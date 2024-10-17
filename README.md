@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vrashabh-k.
+- 👋 Hi, I’m Vrashabh.
 - 👀 I’m passionate about learning the latest trends and technologies.
 - 🌱 Currently exploring JavaScript, focusing on the React framework for frontend and Express for backend development.
 - 💞️ Open to collaborating on innovative web development projects.
